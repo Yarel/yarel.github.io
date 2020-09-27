@@ -5,7 +5,7 @@ date: 2020-09-27 14:00
 categories: [Blogging, post]
 tags: [Footprinting]
 math: true
-image: http://www.lscvsystems.com/images/lscv/servicios_presentacion/hacker_P.jpg
+image: /assets/img/post/Footprinting/primera.jpg
 ---
 
 Este post hablamos un poco del footprinting, junto a el escaneo y la enumeracion donde son las fases de obtencion de informacion previas a un ataque
