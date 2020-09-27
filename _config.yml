@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Yarel                   # the main title
+title: Mur9hy              # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline:  Por ahora, este blog documenta principalmente gran parte de los conocimientos que he adquirido en mi desarrollo profesional y proyectos independientes que realizo de forma extensa en el campo de la tecnología.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Un poco de diversion Geek rompiendo sistemas
@@ -20,7 +20,7 @@ url: 'http://mur9hy.github.io'
 
 author: Yarel Balcazar             # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://avatars3.githubusercontent.com/u/26655695?s=460&u=9e83be1949c01399be7557cfe3ed9c73accbcbfe&v=4   # support internet resources
 
 github:
   username: Yarel           # change to your github username
