@@ -11,12 +11,13 @@ title: About me
 <img src="/assets/img/aboutme/portada.jpg" />
 </p>
 
-#
 Mi nombre es Yarel Balcazar (Mur9hy) Entusiasta por la seguridad informática 
 
 Este blog documentara principalmente gran parte de los conocimientos que ire adquirido en mi desarrollo profesional y proyectos independientes que vaya realizando en el campo de la tecnología.
-#
+
 ### Correo y contacto directo
+
+Mail: yarelbalcazar@gmail.com
 
 Clave publica:
 
