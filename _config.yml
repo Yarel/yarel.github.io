@@ -10,7 +10,8 @@
 
 title: Yarel Balcazar              # the main title
 
-tagline: Este blog documentara principalmente gran parte de los conocimientos que ire adquirido en mi desarrollo profesional y proyectos independientes que vaya realizando en el campo de la tecnología.   # it will display as the sub-title
+#tagline: Este blog documentara principalmente gran parte de los conocimientos que ire adquirido en mi desarrollo profesional y proyectos independientes que vaya realizando en el campo de la tecnología.   # it will display as the sub-title
+tagline: "💻 Aprendo, 💥 rompo, 🛠️ arreglo... y a veces funciona. 🔥🔥 Todo bajo control 🔥🔥 o eso le digo a mi tech lead mientras sonrío en la daily ☕😅"
 
 description: >-                        # used by seo meta and the atom feed
   Un poco de diversion Geek rompiendo sistemas

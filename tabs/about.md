@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Backstage ! ! !
 
 # The About page
 # v2.0
@@ -7,73 +7,15 @@ title: About me
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
+
 <p align="center">
-<img src="/assets/img/aboutme/portada.jpg" />
+  <img src="/assets/img/aboutme/portada.jpg" alt="Foto de Yarel Balcazar" />
 </p>
 
-Mi nombre es Yarel Balcazar (Mur9hy) Entusiasta por la seguridad informática 
+¡Bienvenido a mi backstage!
 
-Este blog documentara principalmente gran parte de los conocimientos que ire adquirido en mi desarrollo profesional y proyectos independientes que vaya realizando en el campo de la tecnología.
+El caos oculto tras las reuniones, los problemas “resueltos” (o eso dicen 🤡) y el mundo mágico de *ops: DevOps, CloudOps, DataOps, SecOps, MLOps… básicamente todos los *ops que suenan cool.
 
-### Correo y contacto directo
+Aquí intento ser senior, aunque la verdad a veces solo soy experto en decir “¿Qué demonios hice ahora?” mientras tomo café y escribo scripts que nadie entiende.
 
-Mail: yarelbalcazar@gmail.com
-
-Clave publica:
-
-````
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-CLLWsASBeCsiUP8=
-=OZGO
------END PGP PUBLIC KEY BLOCK-----
-````
-
-No olviden pasarme su clave publica en el propio correo que me envien. Recomiendo el plugin Enigmail de Thunderbird para gestionar las claves 
+Realicemos el caos, bugs y logros que parecen milagros.
